@@ -1,3 +1,4 @@
 .env
 venvlaptopData
 log
+__pycache__
